@@ -1,1 +1,2 @@
+I am adding another line
 Hello, This is new git created from scratch
